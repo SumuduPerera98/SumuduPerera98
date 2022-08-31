@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumuduPerera98&label=Profile%20views&color=0e75b6&style=flat" alt="SumuduPerera98" /> </p>
 <h1 align="center">Hi 👋, I'm Sumudu Perera</h1>
 <h3 align="center">Third Year Undergraduate in Computer Science at University of Colombo School of Computing</h3>
 
 - 📫 How to reach me **Sharshiperera20@gmail.com**
+
 
 ## <h2>🌐 Connect with me:</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumuduperera98) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sharshi.perera.92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharshiperera?r=nametag)  
@@ -12,6 +14,8 @@
 # <h2>📊 GitHub Stats:</h2>
 ![](https://github-readme-stats.vercel.app/api?username=SumuduPerera98&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SumuduPerera98&theme=light&hide_border=false)<br/>
+<img src="https://activity-graph.herokuapp.com/graph?username=SumuduPerera98&theme=light"/>
+
 
 
 
